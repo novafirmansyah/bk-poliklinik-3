@@ -65,8 +65,8 @@
                                         <td><?= $jadwal['jam_mulai'] ?></td>
                                         <td><?= $jadwal['jam_selesai'] ?></td>
                                         <td>
-                                            <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-edit"></i> Edit</a>
-                                            <a href="#" class="btn btn-danger btn-sm delete-button"><i class="fa fa-trash"></i> Hapus</a>    
+                                            <a href="#" class="btn btn-primary btn-sm"><i class="t"></i> Aktif</a>
+                                            <a href="#" class="btn btn-danger btn-sm delete-button"><i class=""></i> Nonaktif</a>    
                                         </td>
                                     </tr>
                                     <?php
