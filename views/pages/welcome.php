@@ -33,7 +33,7 @@
                 <div class="col-lg-6">
                     <div class="text-center my-5">
                         <h1 class="display-5 fw-bolder text-white mb-2">Sistem Temu Janji <br>Pasien - Dokter</h1>
-                        <p class="lead text-white-50 mb-4">Bimbingan Karir 2023 Bidang Web</p>
+                        <p class="lead text-white-50 mb-4">Bimbingan Karir</p>
                     </div>
                 </div>
             </div>
@@ -46,7 +46,7 @@
                 <div class="col-lg-6 mb-5 mb-lg-0">
                     <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="bi bi-person"></i></div>
                     <h2 class="h4 fw-bolder">Login Sebagai Admin</h2>
-                    <p>Apabila Anda adalah seorang Admin, silahkan Login terlebih dahulu untuk mengelola data website!</p>
+                    
                     <a class="text-decoration-none" href="http://<?= $_SERVER['HTTP_HOST'] ?>/bk-poliklinik/views/pages/auth/login-admin.php">
                         Klik Link Berikut
                         <i class="bi bi-arrow-right"></i>
@@ -55,7 +55,7 @@
                 <div class="col-lg-6 mb-5 mb-lg-0">
                     <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="bi bi-person"></i></div>
                     <h2 class="h4 fw-bolder">Login Sebagai Dokter</h2>
-                    <p>Apabila Anda adalah seorang Dokter, silahkan Login terlebih dahulu untuk memulai melayani Pasien!</p>
+                    
                     <a class="text-decoration-none" href="http://<?= $_SERVER['HTTP_HOST'] ?>/bk-poliklinik/views/pages/auth/login-dokter.php">
                         Klik Link Berikut
                         <i class="bi bi-arrow-right"></i>
@@ -64,7 +64,7 @@
                 <div class="col-lg-6 mb-5 mb-lg-0">
                     <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="bi bi-person"></i></div>
                     <h2 class="h4 fw-bolder">Login Sebagai Pasien</h2>
-                    <p>Apabila Anda adalah seorang Pasien, silahkan Login terlebih dahulu untuk mulai menggunakan layanan kami!</p>
+                    
                     <a class="text-decoration-none" href="http://<?= $_SERVER['HTTP_HOST'] ?>/bk-poliklinik/views/pages/auth/login-pasien.php">
                         Klik Link Berikut
                         <i class="bi bi-arrow-right"></i>

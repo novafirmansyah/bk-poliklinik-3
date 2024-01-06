@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta name="description" content="" />
     <meta name="author" content="" />
-    <title>Sistem Temu Janji Poliklinik</title>
+    <title>Janji Temu Poliklinik</title>
     <!-- Favicon-->
     <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
     <!-- Bootstrap icons-->
@@ -36,8 +36,8 @@
             <div class="row gx-5 justify-content-center">
                 <div class="col-lg-6">
                     <div class="text-center my-5">
-                        <h1 class="display-5 fw-bolder text-white mb-2">Sistem Temu Janji <br>Pasien - Dokter</h1>
-                        <p class="lead text-white-50 mb-4">Bimbingan Karir 2023 Bidang Web</p>
+                        <h1 class="display-5 fw-bolder text-white mb-2">Sistem Janji Temu <br>Pasien - Dokter</h1>
+                        <p class="lead text-white-50 mb-4">Bimbingan Karir</p>
                         <!-- <div class="d-grid gap-3 d-sm-flex justify-content-sm-center">
                             <a class="btn btn-primary btn-lg px-4 me-sm-3" href="#features">Get Started</a>
                             <a class="btn btn-outline-light btn-lg px-4" href="#!">Learn More</a>
@@ -55,7 +55,7 @@
                     <div class="col-lg mb-5 mb-lg-0">
                         <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="bi bi-person"></i></div>
                         <h2 class="h4 fw-bolder">Login Sebagai Admin</h2>
-                        <p>Apabila Anda adalah seorang Admin, silahkan Login terlebih dahulu untuk mengelola data website!</p>
+                        
                         <a class="text-decoration-none" href="http://<?= $_SERVER['HTTP_HOST'] ?>/bk-poliklinik/pages/auth/login-admin.php">
                             Klik Link Berikut
                             <i class="bi bi-arrow-right"></i>
@@ -64,7 +64,7 @@
                     <div class="col-lg mb-5 mb-lg-0">
                         <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="bi bi-person"></i></div>
                         <h2 class="h4 fw-bolder">Login Sebagai Dokter</h2>
-                        <p>Apabila Anda adalah seorang Dokter, silahkan Login terlebih dahulu untuk memulai melayani Pasien!</p>
+                        
                         <a class="text-decoration-none" href="http://<?= $_SERVER['HTTP_HOST'] ?>/bk-poliklinik/pages/auth/login.php">
                             Klik Link Berikut
                             <i class="bi bi-arrow-right"></i>
@@ -75,45 +75,7 @@
         </section>
     <?php endif ?>
     <!-- Pricing section-->
-    <!-- Testimonials section-->
-    <section class="py-5 border-bottom">
-        <div class="container px-5 my-5 px-5">
-            <div class="text-center mb-5">
-                <h2 class="fw-bolder">Testimoni Pasien</h2>
-                <p class="lead mb-0">Para Pasien yang Setia</p>
-            </div>
-            <div class="row gx-5 justify-content-center">
-                <div class="col-lg-6">
-                    <!-- Testimonial 1-->
-                    <div class="card mb-4">
-                        <div class="card-body p-4">
-                            <div class="d-flex">
-                                <div class="flex-shrink-0"><i class="bi bi-chat-right-quote-fill text-primary fs-1"></i></div>
-                                <div class="ms-4">
-                                    <p class="mb-1">Pelayanan di web ini sangat cepat dan mudah. Detail histori tercatat lengkap,
-                                        termasuk catatan obat. Harga pelayanan terjangkau, Dokter ramah, pokoke mantab pol!</p>
-                                    <div class="small text-muted">- Adi, Semarang</div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Testimonial 2-->
-                    <div class="card">
-                        <div class="card-body p-4">
-                            <div class="d-flex">
-                                <div class="flex-shrink-0"><i class="bi bi-chat-right-quote-fill text-primary fs-1"></i></div>
-                                <div class="ms-4">
-                                    <p class="mb-1">Aku tidak pernah merasakan mudahnya berobat sebelum Aku mengenal web ini.
-                                        Web yang mudah digunakan dan dokter yang termapil membuat berobat menjadi lebih menyenangkan!</p>
-                                    <div class="small text-muted">- Ida, Semarang</div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+  
     <!-- Contact section-->
     <!-- Footer-->
     <footer class="main-footer px-4 py-2">
@@ -121,11 +83,11 @@
             <script>
                 document.write(new Date().getFullYear())
             </script>
-            <a href="https://bengkelkoding.dinus.ac.id/">Bengkel Koding</a>.
+            <a href="">Bengkel Koding</a>.
         </strong>
         All rights reserved.
         <div class="float-right d-none d-sm-inline-block">
-            <b>Version</b> 1.0.0
+            
         </div>
     </footer>
     <!-- Bootstrap core JS-->

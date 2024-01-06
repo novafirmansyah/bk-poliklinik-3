@@ -3,11 +3,11 @@
         <div class="container-fluid">
             <div class="row mb-2">
                 <div class="col-sm-6">
-                    <h1 class="m-0">Halaman Jadwal Periksa</h1>
+                    <h1 class="m-0">Jadwal Periksa</h1>
                 </div><!-- /.col -->
                 <div class="col-sm-6">
                     <ol class="breadcrumb float-sm-right">
-                    <li class="breadcrumb-item"><a href="#">Poliklinik BK</a></li>
+                    <li class="breadcrumb-item"><a href="#">Poliklinik</a></li>
                     <li class="breadcrumb-item active">Jadwal Periksa</li>
                     </ol>
                 </div>
@@ -19,7 +19,7 @@
             <div class="card card-secondary">
                 <div class="card-header">
                     <div class="d-flex align-items-center justify-content-between">
-                        <p class="my-2 card-title">Tabel Data Jadwal Periksa</p>
+                        <p class="my-2 card-title">Data Jadwal Periksa</p>
                         <button data-toggle="modal" data-target="#tambahJadwalPeriksaModal" class="btn btn-primary btn-sm">
                             <i class="fa fa-plus"></i>
                             Tambah Jadwal Periksa
