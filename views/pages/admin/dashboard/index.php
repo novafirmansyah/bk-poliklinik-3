@@ -5,12 +5,7 @@
                 <div class="col-sm-6">
                     <h1 class="m-0">Admin</h1>
                 </div><!-- /.col -->
-                <div class="col-sm-6">
-                    <ol class="breadcrumb float-sm-right">
-                    <li class="breadcrumb-item"><a href="#">Poliklinik</a></li>
-                    <li class="breadcrumb-item active">Dashboard</li>
-                    </ol>
-                </div>
+
             </div>
         </div>
     </div>
@@ -30,10 +25,8 @@
                             <h3><?= $pasien['total_obat']  ?></h3>
                             <p>Total Obat</p>
                         </div>
-                        <div class="icon">
-                            <i class="ion ion-bag"></i>
-                        </div>
-                        <a href="<?= $BASE_ADMIN_PAGES . '?page=obat' ?>" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
+                       
+                        <a href="<?= $BASE_ADMIN_PAGES . '?page=obat' ?>" class="small-box-footer">Info lainnya <i class="fas fa-arrow-circle-right"></i></a>
                     </div>
                 </div>
             </div>

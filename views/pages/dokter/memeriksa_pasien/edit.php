@@ -31,7 +31,7 @@
                 <div class="col-sm-6">
                     <ol class="breadcrumb float-sm-right">
                     <li class="breadcrumb-item"><a href="#">Poliklinik BK</a></li>
-                    <li class="breadcrumb-item">Memeriksa Pasien</li>
+                    <li class="breadcrumb-item">Periksa Pasien</li>
                     <li class="breadcrumb-item active">Periksa</li>
                     </ol>
                 </div>
