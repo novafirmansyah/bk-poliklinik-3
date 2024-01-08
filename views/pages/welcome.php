@@ -24,7 +24,7 @@
       
     </nav>
     <!-- Header-->
-    <header class="py-5" style="background-color: #183F8C;"> <!-- Ubah Color Banner disini -->
+    <header class="py-5" style="background-color: #183F8C;"> 
         <div class="container px-5">
             <div class="row gx-5 justify-content-center">
                 <div class="col-lg-6">
